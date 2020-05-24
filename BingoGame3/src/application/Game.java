@@ -1,7 +1,7 @@
 package application;
 
 /**
- * author Monera 205807308 & Reem 313227928
+ * author Monera  & Reem 
  */
 import java.util.Random;
 import javafx.geometry.Insets;
