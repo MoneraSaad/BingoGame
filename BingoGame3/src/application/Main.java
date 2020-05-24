@@ -2,7 +2,7 @@
 package application;
 
 /**
- * author Monera 205807308 & Reem 313227928
+ * author Monera  & Reem 
  */
 import javafx.application.Application;
 import javafx.stage.Stage;
